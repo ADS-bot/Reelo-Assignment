@@ -4,13 +4,13 @@
 
 <h2>Demo</h2>
 <p align="center">
-<img src="Frontend/assets/images/s1.png" alt="s1" width="900" height="500">
+<img src="Frontend/assets/images/s1.png" alt="s1" width="900" height="400">
 </p>
   
 <h2>Project Screenshots:</h2>
 
 <p align="center">
-<img src="Frontend/assets/images/s2.png" alt="s2" width="900" height="500">
+<img src="Frontend/assets/images/s2.png" alt="s2" width="900" height="400">
 </p>
   
 <h2>🧐 Features</h2>
