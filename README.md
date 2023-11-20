@@ -2,12 +2,12 @@
 
 <p id="description">This project involves the design and implementation of a Question Paper Generator application. The primary goal is to create a system that efficiently generates question papers based on specific criteria such as subject topic difficulty level and marks allocation.</p>
 
-<h2>🚀 Demo</h2>
-
+<h2>Demo</h2>
 <h2>Project Screenshots:</h2>
+
 <center>
-<img src="frontend/assets/images/s1.png" alt="s1" width="400" height="400">
-<img src="frontend/assets/images/s2.png" alt="s2" width="400" height="400">
+<img src="Frontend/assets/images/s1.png" alt="s1" width="400" height="400">
+<img src="Frontend/assets/images/s2.png" alt="s2" width="400" height="400">
 </center>
   
 <h2>🧐 Features</h2>
