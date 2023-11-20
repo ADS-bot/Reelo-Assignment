@@ -5,10 +5,10 @@
 <h2>Demo</h2>
 <h2>Project Screenshots:</h2>
 
-<center>
+<p align="center">
 <img src="Frontend/assets/images/s1.png" alt="s1" width="600" height="300">
 <img src="Frontend/assets/images/s2.png" alt="s2" width="600" height="300">
-</center>
+</p>
   
 <h2>🧐 Features</h2>
 
