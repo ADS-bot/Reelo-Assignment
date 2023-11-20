@@ -6,7 +6,7 @@
 <h2>Project Screenshots:</h2>
 
 <p align="center">
-<img src="Frontend/assets/images/s1.png" alt="s1" width="600" height="300">
+<img src="Frontend/assets/images/s1.png" alt="s1" width="700" height="400">
 <img src="Frontend/assets/images/s2.png" alt="s2" width="600" height="300">
 </p>
   
