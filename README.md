@@ -6,8 +6,8 @@
 <h2>Project Screenshots:</h2>
 
 <center>
-<img src="Frontend/assets/images/s1.png" alt="s1" width="400" height="400">
-<img src="Frontend/assets/images/s2.png" alt="s2" width="400" height="400">
+<img src="Frontend/assets/images/s1.png" alt="s1" width="600" height="300">
+<img src="Frontend/assets/images/s2.png" alt="s2" width="600" height="300">
 </center>
   
 <h2>🧐 Features</h2>
